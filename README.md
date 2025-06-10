@@ -2,7 +2,6 @@
 - 👀 I’m interested in occasional programming
 - 🌱 I’m currently learning anything
 - 💞️ I’m looking to collaborate ..
-- 📫 How to reach me ...
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
